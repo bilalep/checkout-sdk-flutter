@@ -1,6 +1,6 @@
 name: checkout_sdk_flutter
 description: This SDK provides the tokenization functionality for cards, ApplePay and Google Pay using Checkout.com's tokenization API.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/checkout/checkout-sdk-flutter
 
 environment:
